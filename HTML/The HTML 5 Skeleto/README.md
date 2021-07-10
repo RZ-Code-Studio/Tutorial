@@ -44,7 +44,7 @@ The `title` tag is the tab name
 
 The `body` tag contains everything the user sees
 
-Ok copy and paste or write the code in your text editor and save it. Double click it in your file manager and WHAT???
+Ok copy and paste or write the code in your text editor and save it as a HTML or HTM file. Double click it in your file manager and WHAT???
 
 It didn't show anything and it's not supposed. It's because we didn't add anything in the body tag.
 
