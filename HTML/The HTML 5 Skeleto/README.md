@@ -49,3 +49,5 @@ Ok copy and paste or write the code in your text editor and save it. Double clic
 It didn't show anything and it's not supposed. It's because we didn't add anything in the body tag.
 
 Quickly add in some text in there and refresh the page in the broswer.
+
+It should show the text
