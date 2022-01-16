@@ -11,9 +11,9 @@ Quickly open your text editor open your file and remove your text and type:
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Your title</title>
 	</head>
-	<body>
-		<h1>My first webpage</h1>
-	</body>
+    <body>
+	<h1>My first webpage</h1>
+    </body>
 </html>
 ```
 
