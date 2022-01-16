@@ -5,12 +5,12 @@ Quickly open your text editor open your file and remove your text and type:
 ```html
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Your title</title>
-	</head>
+    <head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Your title</title>
+    </head>
     <body>
 	<h1>My first webpage</h1>
     </body>
@@ -25,9 +25,7 @@ The h1 tag means header1. It is usually used on the title of webpages in the bod
 
 h1 is most important while h6 is least.
 
-Then add `<p>Hello World!</p>` after your h1. You know the drill.
-
-SAVE, REFRESH!
+Then add `<p>Hello World!</p>` after your h1. Save the file and refresh the page in the browser.
 
 The p tag is the paragrpah tag. It's just the tag that holds normal text.
 
